@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**AdeyeyeHamid/AdeyeyeHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi i'm Hamid
 - 🔭 I’m currently working with React Html Css Javascript
 - 🌱 I’m currently learning Back-end web development
 - 🤔 I’m looking for help with Tailwind Css
