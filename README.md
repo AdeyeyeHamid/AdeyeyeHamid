@@ -1,4 +1,4 @@
-Hi i'm Hamid
+             HI 👋, I'M HAMID
 - 🔭 I’m currently working with React Html Css Javascript
 - 🌱 I’m currently learning Back-end web development
 - 🤔 I’m looking for help with Tailwind Css
